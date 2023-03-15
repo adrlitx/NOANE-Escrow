@@ -16,7 +16,7 @@ This project is a basic Python Flask application connected to a PostgreSQL datab
 
 2. Clone the repository:
 
-git clone https://github.com/yourusername/NOANE-Escrow.git
+git clone https://github.com/adrlitx/NOANE-Escrow.git
 
 3. Change to the project directory:
 
